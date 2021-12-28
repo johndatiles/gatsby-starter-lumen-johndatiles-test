@@ -12,6 +12,8 @@ const useSiteMetadata = () => {
               bio
               photo
               contacts {
+                twitter
+                instagram
                 facebook
                 linkedin
                 github
@@ -28,6 +30,7 @@ const useSiteMetadata = () => {
                 youtube
                 soundcloud
                 medium
+                spotify
               }
             }
             menu {

@@ -22,7 +22,7 @@ module.exports = {
   ],
   author: {
     name: 'John Datiles',
-    photo: '',
+    photo: '/johndatiles.png',
     bio: 'New dad, husband, civil engineer.',
     contacts: {
       email: '',

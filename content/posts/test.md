@@ -3,7 +3,7 @@ title: "Test"
 date: "2021-12-27"
 template: "post"
 draft: false
-slug: "dormant-thoughts"
+slug: "test"
 category: "Writing"
 tags:
  - "Writing"

@@ -6,7 +6,7 @@ draft: false
 slug: "dormant-thoughts"
 category: "Writing"
 tags:
- -"Writing"
+ - "Writing"
 description: "I'm looking at the date of my last post - January 2021. Quite a long time ago. With other priorities, this site fell by the wayside."
 socialImage: ""
 ---

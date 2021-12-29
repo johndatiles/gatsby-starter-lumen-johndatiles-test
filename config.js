@@ -38,7 +38,7 @@ module.exports = {
       gitlab: '',
       weibo: '',
       codepen: '',
-      youtube: 'johnatiles',
+      youtube: 'johndatiles',
       soundcloud: '',
       medium: '',
       spotify: '12172106703',
